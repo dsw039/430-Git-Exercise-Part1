@@ -1,6 +1,5 @@
-/\___/\
-( o   o )
-(  =^=  )
-(        )
-(         )
-(          )))))))))))
+	DDD	   A	  N     N
+      DD   DD	 A   A	  N N   N   
+      DD   DD   AAAAAAA   N  N  N
+      DD   DD  A       A  N   N N
+        DDD   A         A N    N
